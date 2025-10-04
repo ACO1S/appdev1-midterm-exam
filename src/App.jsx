@@ -930,6 +930,15 @@ function App() {
       </div>
     </div>
   </footer>
+  <div
+  id="lean_overlay"
+  style={
+    toggleModal
+      ? { display: "block", opacity: "0.6" }
+      : { display: "none" }
+  }
+/>
+
 </>
  )  
 }
