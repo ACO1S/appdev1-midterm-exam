@@ -31,7 +31,7 @@ function App() {
           <nav className="main-nav">
             {/* ***** Logo Start ***** */}
             <a href="index.html" className="logo">
-              <img src="/public/assets/images/logo.png" alt="Chain App Dev" />
+              <img src="assets/images/logo.png" alt="Chain App Dev" />
             </a>
             {/* ***** Logo End ***** */}
             {/* ***** Menu Start ***** */}
@@ -239,7 +239,7 @@ function App() {
                 data-wow-duration="1s"
                 data-wow-delay="0.5s"
               >
-                <img src="assets/images/slider-dec.png" alt="" />
+                <img src="/public/assets/images/slider-dec.png" alt="" />
               </div>
             </div>
           </div>
