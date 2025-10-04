@@ -239,7 +239,7 @@ function App() {
                 data-wow-duration="1s"
                 data-wow-delay="0.5s"
               >
-                <img src="/public/assets/images/slider-dec.png" alt="" />
+                <img src="assets/images/slider-dec.png" alt="" />
               </div>
             </div>
           </div>
